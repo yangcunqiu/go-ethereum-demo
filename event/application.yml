@@ -1,0 +1,10 @@
+server:
+  port: 9090
+  contextPath: /event
+mysql:
+  ip: 106.14.18.18
+  port: 3306
+  database: ethereum-event
+  params: charset=utf8mb4&parseTime=True&loc=Local
+  username: root
+  password: pass1234
